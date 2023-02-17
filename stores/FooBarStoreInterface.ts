@@ -1,5 +1,5 @@
 import { Ref } from "vue"
 
-export interface AuthorizationStoreInterface {
+export interface FooBarStoreInterface {
     code: Ref<string>
 }
